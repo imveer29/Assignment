@@ -1,0 +1,30 @@
+What is an Algorithm? Algorithm Basics
+The word Algorithm means ” A set of finite rules or instructions to be followed in 
+calculations or other problem-solving operations ” Or ” A procedure for solving a 
+mathematical problem in a finite number of steps that frequently involves recursive operations”.
+
+What is the need for algorithms:
+1.Algorithms are necessary for solving complex problems efficiently and effectively. 
+
+2.They help to automate processes and make them more reliable, faster, and easier to perform.
+
+3.Algorithms also enable computers to perform tasks that would be difficult or impossible for humans to do manually.
+
+4.They are used in various fields such as mathematics, computer science, engineering, finance, and
+ many others to optimize processes, analyze data, make predictions, and provide solutions to problems.
+
+Properties of Algorithm:
+It should terminate after a finite time.
+It should produce at least one output.
+It should take zero or more input.
+It should be deterministic means giving the same output for the same input case.
+Every step in the algorithm must be effective i.e. every step should do some work.
+
+Types of Algorithms:
+There are several types of algorithms available. Some important algorithms are:
+
+1. Brute Force Algorithm: It is the simplest approach for a problem. A brute force algorithm 
+is the first approach that comes to finding when we see a problem.
+
+2. Recursive Algorithm: A recursive algorithm is based on recursion. In this case, a problem is
+ broken into several sub-parts and called the same function again and again.
